@@ -1,1 +1,1 @@
-# GeronimoNicomedes.Portfolio
+This is Geronimo "Jerome" Nicomedes' Portfolio
